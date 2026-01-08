@@ -55,13 +55,6 @@ While I focus on commercial work, here are past projects where I received recogn
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=alamiouali&show_icons=true&theme=tokyonight&count_private=true" alt="Abdessamad's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamiouali&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdessamad-ouali-alami-5b30a9382/)
